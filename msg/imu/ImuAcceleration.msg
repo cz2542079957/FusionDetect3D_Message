@@ -1,0 +1,3 @@
+float64 acceleration_x
+float64 acceleration_y
+float64 acceleration_z
