@@ -10,7 +10,7 @@ find_package(rosidl_default_generators REQUIRED)
 find_package(std_msgs REQUIRED) 
 
 
-FILE(GLOB_RECURSE message  RELATIVE "${CMAKE_CURRENT_SOURCE_DIR}" "*.msg")
+FILE(GLOB_RECURSE message  RELATIVE "${CMAKE_CURRENT_SOURCE_DIR}" "*/*.msg")
 
 # set(message
 #   "msg/ImuData.msg"
