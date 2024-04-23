@@ -1,5 +1,6 @@
 int64 timestemp
 float32 temperature
 ImuMagneticField magnetic_field
+ImuAngular angular
 ImuAngularVelocity angular_velocity
 ImuQuaternion quaternion
