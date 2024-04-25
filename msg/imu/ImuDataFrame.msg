@@ -1,4 +1,4 @@
-int64 timestemp
+int64 timestamp
 float32 temperature
 ImuMagneticField magnetic_field
 ImuAngular angular
